@@ -1,0 +1,72 @@
+//Variables
+// $main-color: rgb(174, 32, 32);
+$main-color: black;
+$bgcolor: rgb(79, 75, 75);
+$h1Font: 53px;
+
+h1 {
+  color: $main-color;
+  font-size: 50px;
+}
+
+#nested {
+  background-color: $bgcolor;
+  height: 60px;
+
+  h3 {
+    color: green;
+    font-size: $h1Font;
+  }
+}
+
+//interpolation
+
+//@ means built-in functions
+@mixin text-style($name, $bold-or-normal, $size, $color) {
+  #{$name} {
+    font-size: #{$size}px;
+    font-weight: #{$bold-or-normal};
+    color: #{$color};
+  }
+}
+
+//call the interpolation method
+//@include is like calling a function
+@include text-style(".interpolation", bold, 25, blue);
+@include text-style(".secondInterpolation", bold, 45, yellow);
+
+@mixin default-text-style {
+  padding: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+//calling it inside a class
+#mixin-example {
+  p {
+    @include default-text-style;
+  }
+}
+
+//function example
+@function invert($color, $amount: 100%) {
+  $inverse: change-color($color, $hue: hue($color) + 180);
+  @return mix($inverse, $color, $amount);
+}
+
+$primary-color: green;
+
+#function-example {
+  background-color: invert($primary-color, 80%);
+  h3 {
+    color: black;
+  }
+}
+
+// .App-header {
+//     background-color: invert($primary-color, 80%);
+//   }
+
+//   .cards {
+//     background-color: invert($primary-color, 80%);
+//   }

@@ -1,0 +1,40 @@
+h1 {
+  color: black;
+  font-size: 50px;
+}
+
+#nested {
+  background-color: rgb(79, 75, 75);
+  height: 60px;
+}
+#nested h3 {
+  color: green;
+  font-size: 53px;
+}
+
+.interpolation {
+  font-size: 25px;
+  font-weight: bold;
+  color: blue;
+}
+
+.secondInterpolation {
+  font-size: 45px;
+  font-weight: bold;
+  color: yellow;
+}
+
+#mixin-example p {
+  padding: 20px;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+#function-example {
+  background-color: #661a66;
+}
+#function-example h3 {
+  color: black;
+}
+
+/*# sourceMappingURL=style.css.map */
