@@ -3,9 +3,9 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 
 export const Contact = () => {
-  //const URL = process.env.REACT_PF_MESSAGE_URL;
+  const URL = process.env.REACT_APP_MESSAGE_URL;
   //const URL = "http://localhost:3004/message";
-  const URL = "https://umarportfolio-be.onrender.com/message/";
+  //const URL = "https://umarportfolio-be.onrender.com/message/";
   //const loginURL = process.env.REACT_APP_BACKEND_LOGIN_URL;
 
   const [newForm, setNewForm] = useState({
