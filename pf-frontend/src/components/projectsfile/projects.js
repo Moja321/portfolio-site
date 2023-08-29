@@ -12,12 +12,22 @@ const Projects = (props) => {
         <h6>Made with : {props.tech}</h6>
         <br />
         {/* <b>{props.index}</b> */}
-        <a href={props.url} className="btn btn-success" target="_blank" rel="noreferrer">
+        <a
+          href={props.url}
+          className="btn btn-success"
+          target="_blank"
+          rel="noreferrer"
+        >
           Go to site
         </a>
         <br />
         <br />
-        <a href={props.github} className="btn btn-success" target="_blank" rel="noreferrer">
+        <a
+          href={props.github}
+          className="btn btn-success"
+          target="_blank"
+          rel="noreferrer"
+        >
           Github Repo
         </a>
       </div>

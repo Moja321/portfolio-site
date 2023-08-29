@@ -43,12 +43,15 @@
   }
 }
 
+/* card and card-img are actually predefined sass classes so !important is used to override the default settings */
+
 .card {
   height: auto;
   width: 350px;
   /* border: 1px solid rgb(0, 0, 255, 0.497); */
   padding: 40px;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  border-radius: 20px !important;
 }
 
 .card-img {
@@ -56,6 +59,7 @@
   height: auto;
   margin-bottom: 20px;
   border: 1px solid rgba(0, 0, 0, 0.497);
+  border-radius: 20px !important;
 }
 
 .cards {
@@ -63,9 +67,9 @@
   grid-template-columns: auto auto auto;
   justify-content: space-evenly;
   border: 1px solid rgba(87, 58, 32, 0.497);
-  border-radius: 10px;
+  border-radius: 20px;
   padding-top: 40px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   margin-bottom: 85px;
   margin-left: 20px;
   margin-right: 20px;
@@ -96,7 +100,9 @@
 }
 
 .about {
-  padding: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom:50px;
 }
 
 .nav-link {
@@ -133,3 +139,124 @@
 /* .btn-success {
   background-color: #661a66 !important;
 } */
+
+/* below is related to technology icons: */
+
+.card-logo {
+  height: auto;
+  width: 350px;
+  /* border: 1px solid rgb(0, 0, 255, 0.497); */
+  padding: 40px;
+  margin-bottom: 20px;
+}
+
+.cards-logo {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  justify-content: space-evenly;
+  border: 1px solid rgba(87, 58, 32, 0.497);
+  border-radius: 20px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  margin-bottom: 85px;
+  margin-left: 20px;
+  margin-right: 20px;
+  overflow: hidden;
+  background-color: #661a66;
+  /* background-color: #282c34; */
+}
+
+@media only screen and (max-width: 1100px) {
+  .cards-logo {
+    grid-template-columns: auto auto;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .cards-logo {
+    grid-template-columns: auto;
+  }
+}
+
+.wrapper {
+  font-family: sans-serif;
+  width: 300px;
+  height: 150px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+
+.tech-img {
+  /* border: 1px solid rgba(87, 58, 32, 0.497);
+  border-radius: 20px; */
+  /* margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto; */
+  margin: auto;
+  text-align:center;
+  padding:1px;
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit: contain;
+  /* height:auto; */
+}
+
+.content {
+  /* display:flex; */
+  opacity:1;
+  white-space:nowrap;
+  position:absolute;
+  top:45%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  color: #fff;
+  /* font-size:60px; */
+  overflow:hidden;
+}
+
+.stars-img {
+  width: 150px;
+  height:auto;
+}
+
+.content span{
+  font-size:24px;
+  display: block;
+  /* text-align: center; */
+  margin: auto;
+}
+
+.subcontent{
+  padding-top:20px;
+  font-size:24px;
+  /* display: block; */
+  /* text-align: center; */
+}
+
+.overlay{
+  position: absolute;
+  /* bottom:100%; */
+  top:100%;
+  left:0;
+  right:0;
+  background: rgba(102, 26, 102, 0.6);
+  width:100%;
+  height:0;
+  transition: .5s ease;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+.wrapper:hover .overlay{
+  /* bottom:0;
+  height:100%; */
+  top:0;
+  height:100%;
+}
