@@ -103,7 +103,8 @@ export const Contact = () => {
                 Message :
               </label>
               <br />
-              <textarea
+              <textarea 
+                className="contact-textarea"
                 style={{ height: "150px", width: "600px" }}
                 name="msg"
                 value={newForm.msg}

@@ -9,9 +9,7 @@ export const About = () => {
         </h4>
         <br />
         <h4>
-          My skills include : HTML5, CSS, JavaScript, EJS, React, Node, Express,
-          MongoDB, Postgres, Git, Github, Linux server, WSL2, Python, PHP, C#,
-          Unity
+          My skills include :
         </h4>
         {/* <div className="card">
         <img className="card-img" src="https://drive.google.com/uc?id=1kvDwAgI8BjK7-wTLNJkjKV6POleNtDDk" />
@@ -48,6 +46,18 @@ export const About = () => {
                 {/* Slide in <span> From the Top </span> */}
                 <div class="subcontent">
                   <p>Node.JS</p>
+                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                </div> 
+              </div>
+            </div>
+          </div>
+          <div class="wrapper">
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1nM7cq3SI93FGtd6MZMvMfuq9TLf0sT31" />
+            <div class="overlay">
+              <div class="content">
+                {/* Slide in <span> From the Top </span> */}
+                <div class="subcontent">
+                  <p>Express.JS</p>
                   <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
                 </div> 
               </div>

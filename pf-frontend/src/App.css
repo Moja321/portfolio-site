@@ -91,7 +91,10 @@
 @media only screen and (max-width: 750px) {
   .cards {
     grid-template-columns: auto;
+    margin-left: 2%;
+    margin-right: 2%;
   }
+  
 }
 
 .nav1 {
@@ -100,8 +103,8 @@
 }
 
 .about {
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 5%;
+  padding-right: 5%;
   padding-bottom:50px;
 }
 
@@ -175,6 +178,14 @@
 @media only screen and (max-width: 750px) {
   .cards-logo {
     grid-template-columns: auto;
+    margin-left: 1%;
+    margin-right: 1%;
+  }
+  /* .contact-textarea {
+    width: 100px;
+  } */
+  .contact-textarea {
+    max-width: 100%;
   }
 }
 
