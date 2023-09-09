@@ -44,24 +44,26 @@ export const Contact = () => {
   };
 
   return (
-    <div className="" style={{ height: "120vh", marginTop: "30px" }}>
-      <h4>Feel free to download my CV via the button below:</h4>
-      <br />
-      <a
-      href="https://drive.google.com/file/d/1EFgPgsrPu5ea85EYI1ZgNSg13wqxZq1c/view?usp=drive_link"
-      className="btn btn-success"
-      target="_blank"
-      rel="noreferrer"
-      >
-        Download CV
-      </a>
-      <br />
-      <br />
-      <h4>You can contact me at umarroshidi@yahoo.com</h4>
-      <br />
-      <h4>Or alternatively you can drop me a message via the form below:</h4>
-      <br />
-      <br />
+    <div className="contact" style={{ height: "120vh", marginTop: "30px" }}>
+      <div className="contact-intro" style={{paddingLeft: "5%", paddingRight: "5%" }}>
+        <h4>Feel free to download my CV via the button below:</h4>
+        <br />
+        <a
+        href="https://drive.google.com/file/d/1EFgPgsrPu5ea85EYI1ZgNSg13wqxZq1c/view?usp=drive_link"
+        className="btn btn-success"
+        target="_blank"
+        rel="noreferrer"
+        >
+          Download CV
+        </a>
+        <br />
+        <br />
+        <h4>You can contact me at umarroshidi@yahoo.com</h4>
+        <br />
+        <h4>Or alternatively you can drop me a message via the form below:</h4>
+        <br />
+        <br />
+      </div>
       <div id="function-example">
         <section className="form-style">
           <br />
