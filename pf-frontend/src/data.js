@@ -23,7 +23,7 @@ export const projects = [
     description:
       "A website where users can share and rate each other's origami design ideas",
     tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node, Express, MongoDB, Mongoose",
-    url: "https://origame-mhnz.onrender.com/",
+    url: "https://origame.vercel.app/",
     github: "https://github.com/Moja321/project_3",
   },
   {
