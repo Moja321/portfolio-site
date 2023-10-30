@@ -13,7 +13,7 @@ export const projects = [
     img: "https://drive.google.com/uc?id=1OfbYxT3L77zAZe5KCuXYNjt15-ql7W12",
     description:
       "An art gallery website where users can register to post and share personal artworks",
-    tech: "HTML5/CSS/JavaScript, Bootstrap, EJS, Node, Express, MongoDB, Mongoose",
+    tech: "HTML5/CSS/JavaScript, Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://art-gallery-site.adaptable.app/",
     github: "https://github.com/Moja321/art_gallery_site",
   },
@@ -22,7 +22,7 @@ export const projects = [
     img: "https://drive.google.com/uc?id=1ycFEpvvwQ1E4dFzAnRFIHsjbaPTQlezy",
     description:
       "A website where users can share and rate each other's origami design ideas",
-    tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node, Express, MongoDB, Mongoose",
+    tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://origame.vercel.app/",
     github: "https://github.com/Moja321/project_3",
   },
@@ -40,7 +40,7 @@ export const projects = [
     img: "https://drive.google.com/uc?id=10M41VVjzURn-8h_qtvWKGd_wwBYlnr-t",
     description:
       "A whack-a-mole game made with Unity, players can submit their score to a top 10 global leaderboard",
-    tech: "Unity game engine, C#, JavaScript, Node, Express, MongoDB, Mongoose",
+    tech: "Unity game engine, C#, JavaScript, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://i.simmer.io/@UnbanTeferi3/superduperwhackamole",
     github: "https://github.com/Moja321/superduper-whack-a-mole",
   },
