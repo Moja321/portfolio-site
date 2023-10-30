@@ -14,7 +14,7 @@ export const projects = [
     description:
       "An art gallery website where users can register to post and share personal artworks",
     tech: "HTML5/CSS/JavaScript, Bootstrap, EJS, Node, Express, MongoDB, Mongoose",
-    url: "https://artgallerywebsite.onrender.com/",
+    url: "https://art-gallery-site.adaptable.app/",
     github: "https://github.com/Moja321/art_gallery_site",
   },
   {
@@ -25,6 +25,32 @@ export const projects = [
     tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node, Express, MongoDB, Mongoose",
     url: "https://origame.vercel.app/",
     github: "https://github.com/Moja321/project_3",
+  },
+  {
+    name: "Word search game",
+    img: "https://drive.google.com/uc?id=1GI-WNP0oM4w_b6xKLw2hpRGninL-D8SE",
+    description:
+      "A fun word search game where players are tasked to find certain words inside a grid of randomly generated letters",
+    tech: "Unity game engine, C#",
+    url: "https://i.simmer.io/@UnbanTeferi3/word-game",
+    github: "https://github.com/Moja321/word-search-game",
+  },
+  {
+    name: "Super Duper Whack-a-mole",
+    img: "https://drive.google.com/uc?id=10M41VVjzURn-8h_qtvWKGd_wwBYlnr-t",
+    description:
+      "A whack-a-mole game made with Unity, players can submit their score to a top 10 global leaderboard",
+    tech: "Unity game engine, C#, JavaScript, Node, Express, MongoDB, Mongoose",
+    url: "https://i.simmer.io/@UnbanTeferi3/superduperwhackamole",
+    github: "https://github.com/Moja321/superduper-whack-a-mole",
+  },
+  {
+    name: "Coming Soon",
+    img: "https://drive.google.com/uc?id=1rbV5pBx9nIKBx2inhzTLxcU95HXEwRVz",
+    description: "A website where users can ...",
+    tech: "HTML5/CSS/JavaScript",
+    url: "#",
+    github: "#",
   },
   {
     name: "Coming Soon",
