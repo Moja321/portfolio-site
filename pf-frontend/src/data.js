@@ -1,7 +1,7 @@
 export const projects = [
   {
     name: "TCG-style card game",
-    img: "https://drive.google.com/uc?id=1NAWWP-7gUBj9YcUpJ7guVDQBDrC7_J0A",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/CardGame1.jpg",
     description:
       "A simple TCG-style card game reminiscent of yugioh or pokemon TCG",
     tech: "HTML5/CSS/JavaScript",
@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     name: "Art Gallery website",
-    img: "https://drive.google.com/uc?id=1OfbYxT3L77zAZe5KCuXYNjt15-ql7W12",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/ArtGallery1.jpg",
     description:
       "An art gallery website where users can register to post and share personal artworks",
     tech: "HTML5/CSS/JavaScript, Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose",
