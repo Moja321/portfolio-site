@@ -17,191 +17,208 @@ export const About = () => {
         <br />
         <div class="cards-logo">
           <div class="wrapper">
-            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://drive.google.com/uc?id=1kvDwAgI8BjK7-wTLNJkjKV6POleNtDDk" />
+            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/html-css-js-logo.png" />
             <div class="overlay">
               <div class="content">
                 {/* Slide in <span> From the Top </span> */}
                 <div class="subcontent">
                   <p>JavaScript/CSS/HTML</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1WHP8R38NcN6SkhcT2SafnsrDXbug1STk" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/3Star.png" />
+                  {/* 3 stars */}
                 </div>                
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "60%", width: "60%"}} src="https://drive.google.com/uc?id=1ierJSUulYxo8f5PW-HF0N-IpgZqv4_5i" />
+            <img className="tech-img" style={{height: "60%", width: "60%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/npm-logo.png.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>Node Package Manager</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 stars */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1N6Yntccl8vIMP8cNb7Rq6jWj9DNrBYWM" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/node.js-logo.png" />
             <div class="overlay">
               <div class="content">
                 {/* Slide in <span> From the Top </span> */}
                 <div class="subcontent">
                   <p>Node.JS</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 */}
                 </div> 
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1nM7cq3SI93FGtd6MZMvMfuq9TLf0sT31" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/expressjs-logo.png" />
             <div class="overlay">
               <div class="content">
                 {/* Slide in <span> From the Top </span> */}
                 <div class="subcontent">
                   <p>Express.JS</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 */}
                 </div> 
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://drive.google.com/uc?id=1g8WXweXvkeK9s5JibEiPf8TFszZQ3Ely" />
+            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/vscode-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>Visual Studio Code</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1WHP8R38NcN6SkhcT2SafnsrDXbug1STk" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/3Star.png" />
+                  {/* 3 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1Tk-oK4PORWY2FKdQVxhavzF5RuYx8hRp" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/bash-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>BASH</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1Wgri5sRRa3LiOuxoXlZRXu03E3Y4BLaN" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/react-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>React</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://drive.google.com/uc?id=1jmCSJmgIv7X4vwiWVKpV7Ubvx81IOynz" />
+            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/mongoDB-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>MongoDB</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=114K2kmMwTMU-wCwSrAE-_43I_Gi0iiIr" />
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1qyhEPHzqyD-mAc5xENGTBbtoD3LE-kyx" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/postgresql-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>PostgreSQL</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=114K2kmMwTMU-wCwSrAE-_43I_Gi0iiIr" />
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=19gAps1RKkIJotzK2nhIL0HNqesNU3Oad" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/mysql-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>MySQL</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=114K2kmMwTMU-wCwSrAE-_43I_Gi0iiIr" />
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "90%", width: "90%"}} src="https://drive.google.com/uc?id=1tSaw5i158GeCxmFNGdPOi7H-NvvxXzXO" />
+            <img className="tech-img" style={{height: "90%", width: "90%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/git-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>Git</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://drive.google.com/uc?id=1YWFD2Gv3CtRO59_mHAFXf9mzW_wIzr9f" />
+            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/github-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>GitHub</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1MPqQlHJppQ5Cr3PBKtX1JLU74jNOtXhl" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
+                  {/* 2.5 */}
                 </div>  
               </div>
             </div>
           </div>          
           <div class="wrapper">
-            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://drive.google.com/uc?id=1K0Kkz0wndsko4syS3XJk96Wn_xRV8Nr2" />
+            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/c%23-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>C#</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1WHP8R38NcN6SkhcT2SafnsrDXbug1STk" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/3Star.png" />
+                  {/* 3 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://drive.google.com/uc?id=1WDzn3nzkmkx0Sq3LRHA4aK5ILkeSsxei" />
+            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/unity-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>Unity</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=1WHP8R38NcN6SkhcT2SafnsrDXbug1STk" />
+                  <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/3Star.png" />
+                  {/* 3 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "70%", width: "70%"}} src="https://drive.google.com/uc?id=1sxTteZuvr2FgSxDTsZmL7IgNSOlkZOBP" />
+            <img className="tech-img" style={{height: "70%", width: "70%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/sass-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>S.A.S.S</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=114K2kmMwTMU-wCwSrAE-_43I_Gi0iiIr" />
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "90%", width: "90%"}} src="https://drive.google.com/uc?id=1CuC0ZOgAM7GA_vIR-Ad57Rz3wakIm1Kr" />
+            <img className="tech-img" style={{height: "90%", width: "90%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/py-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>Python</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=114K2kmMwTMU-wCwSrAE-_43I_Gi0iiIr" />
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
                 </div>  
               </div>
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "70%", width: "70%"}} src="https://drive.google.com/uc?id=1trQkOgTg3YaY-drXZ-fZ2TzNdGR9bwMx" />
+            <img className="tech-img" style={{height: "70%", width: "70%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/php-logo.png" />
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
                   <p>PHP</p>
-                  <img className="stars-img" src="https://drive.google.com/uc?id=114K2kmMwTMU-wCwSrAE-_43I_Gi0iiIr" />
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
                 </div>  
               </div>
             </div>

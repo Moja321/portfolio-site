@@ -19,7 +19,7 @@ export const projects = [
   },
   {
     name: "Origami Sharing website",
-    img: "https://drive.google.com/uc?id=1ycFEpvvwQ1E4dFzAnRFIHsjbaPTQlezy",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/Origame1.jpg",
     description:
       "A website where users can share and rate each other's origami design ideas",
     tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node.js, Express.js, MongoDB, Mongoose",
@@ -28,7 +28,7 @@ export const projects = [
   },
   {
     name: "Word search game",
-    img: "https://drive.google.com/uc?id=1GI-WNP0oM4w_b6xKLw2hpRGninL-D8SE",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/WordGame-thumbnail.jpg",
     description:
       "A fun word search game where players are tasked to find certain words inside a grid of randomly generated letters",
     tech: "Unity game engine, C#",
@@ -37,7 +37,7 @@ export const projects = [
   },
   {
     name: "Super Duper Whack-a-mole",
-    img: "https://drive.google.com/uc?id=10M41VVjzURn-8h_qtvWKGd_wwBYlnr-t",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/WhackAMole-thumbnail.jpg",
     description:
       "A whack-a-mole game made with Unity, players can submit their score to a top 10 global leaderboard",
     tech: "Unity game engine, C#, JavaScript, Node.js, Express.js, MongoDB, Mongoose",
@@ -46,7 +46,7 @@ export const projects = [
   },
   {
     name: "Coming Soon",
-    img: "https://drive.google.com/uc?id=1rbV5pBx9nIKBx2inhzTLxcU95HXEwRVz",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
     description: "A website where users can ...",
     tech: "HTML5/CSS/JavaScript",
     url: "#",
@@ -54,7 +54,7 @@ export const projects = [
   },
   {
     name: "Coming Soon",
-    img: "https://drive.google.com/uc?id=1rbV5pBx9nIKBx2inhzTLxcU95HXEwRVz",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
     description: "A website where users can ...",
     tech: "HTML5/CSS/JavaScript",
     url: "#",
@@ -62,7 +62,7 @@ export const projects = [
   },
   {
     name: "Coming Soon",
-    img: "https://drive.google.com/uc?id=1rbV5pBx9nIKBx2inhzTLxcU95HXEwRVz",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
     description: "A website where users can ...",
     tech: "HTML5/CSS/JavaScript",
     url: "#",
@@ -70,7 +70,7 @@ export const projects = [
   },
   {
     name: "Coming Soon",
-    img: "https://drive.google.com/uc?id=1rbV5pBx9nIKBx2inhzTLxcU95HXEwRVz",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
     description: "A website where users can ...",
     tech: "HTML5/CSS/JavaScript",
     url: "#",
