@@ -2,8 +2,8 @@ const Projects = (props) => {
   return (
     <div className="card">
       {/* Here's the Project: */}
-      <div>
-        <h3>{props.name}</h3>
+      <div className="card-div">
+        <h3 className="card-title">{props.name}</h3>
         <br />
         {/* <h4>Img:{props.img}</h4> */}
         <img className="card-img" src={props.img} />

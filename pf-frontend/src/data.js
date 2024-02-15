@@ -1,12 +1,12 @@
 export const projects = [
   {
-    name: "TCG-style card game",
-    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/CardGame1.jpg",
+    name: "Online Movie Database website",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/CoolMoviezDB1.jpg",
     description:
-      "A simple TCG-style card game reminiscent of yugioh or pokemon TCG",
-    tech: "HTML5/CSS/JavaScript",
-    url: "https://pages.git.generalassemb.ly/moja123/CardGame/",
-    github: "https://git.generalassemb.ly/moja123/CardGame",
+      "An online movie database where you can search for any movie and their info using OMDB api",
+    tech: "HTML5/CSS/JavaScript, React, Node.js",
+    url: "https://react-movies-website-eight.vercel.app/",
+    github: "https://github.com/Moja321/react-movies-website",
   },
   {
     name: "Art Gallery website",
@@ -52,30 +52,30 @@ export const projects = [
     url: "#",
     github: "#",
   },
-  {
-    name: "Coming Soon",
-    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
-    description: "A website where users can ...",
-    tech: "HTML5/CSS/JavaScript",
-    url: "#",
-    github: "#",
-  },
-  {
-    name: "Coming Soon",
-    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
-    description: "A website where users can ...",
-    tech: "HTML5/CSS/JavaScript",
-    url: "#",
-    github: "#",
-  },
-  {
-    name: "Coming Soon",
-    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
-    description: "A website where users can ...",
-    tech: "HTML5/CSS/JavaScript",
-    url: "#",
-    github: "#",
-  },
+  // {
+  //   name: "Coming Soon",
+  //   img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
+  //   description: "A website where users can ...",
+  //   tech: "HTML5/CSS/JavaScript",
+  //   url: "#",
+  //   github: "#",
+  // },
+  // {
+  //   name: "Coming Soon",
+  //   img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
+  //   description: "A website where users can ...",
+  //   tech: "HTML5/CSS/JavaScript",
+  //   url: "#",
+  //   github: "#",
+  // },
+  // {
+  //   name: "Coming Soon",
+  //   img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
+  //   description: "A website where users can ...",
+  //   tech: "HTML5/CSS/JavaScript",
+  //   url: "#",
+  //   github: "#",
+  // },
 ];
 
 //   {

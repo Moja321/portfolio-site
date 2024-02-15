@@ -30,9 +30,10 @@ h1 {
   font-weight: bold;
 }
 
-#function-example {
+/* #function-example {
   background-color: #661a66;
-}
+} */
+
 #function-example h3 {
   color: black;
 }

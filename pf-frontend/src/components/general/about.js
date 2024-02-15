@@ -1,6 +1,6 @@
 export const About = () => {
   return (
-    <div className="" style={{ height: "100vh", marginTop: "30px" }}>
+    <div className="about-container" style={{ paddingTop: "30px" }}>
       <div className="about">
         <h4>
           Hello there, my name is Umar Roshidi and I am a full stack web
@@ -22,7 +22,7 @@ export const About = () => {
               <div class="content">
                 {/* Slide in <span> From the Top </span> */}
                 <div class="subcontent">
-                  <p>JavaScript/CSS/HTML</p>
+                  <p style={{fontSize : "80%"}}>JavaScript/CSS/HTML</p>
                   <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/3Star.png" />
                   {/* 3 stars */}
                 </div>                
@@ -34,7 +34,7 @@ export const About = () => {
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
-                  <p>Node Package Manager</p>
+                  <p style={{fontSize : "75%"}}>Node Package Manager</p>
                   <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/2.5Star.png" />
                   {/* 2.5 stars */}
                 </div>  
@@ -55,7 +55,7 @@ export const About = () => {
             </div>
           </div>
           <div class="wrapper">
-            <img className="tech-img" style={{height: "100%", width: "100%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/expressjs-logo.png" />
+            <img className="tech-img" style={{height: "80%", width: "80%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/expressjs-logo.png" />
             <div class="overlay">
               <div class="content">
                 {/* Slide in <span> From the Top </span> */}
@@ -72,7 +72,7 @@ export const About = () => {
             <div class="overlay">
               <div class="content">
                 <div class="subcontent">
-                  <p>Visual Studio Code</p>
+                  <p style={{fontSize : "90%"}}>Visual Studio Code</p>
                   <img className="stars-img" src="https://raw.githubusercontent.com/Moja321/pf-images/main/3Star.png" />
                   {/* 3 */}
                 </div>  
@@ -222,7 +222,19 @@ export const About = () => {
                 </div>  
               </div>
             </div>
-          </div>          
+          </div>
+          <div class="wrapper">
+            <img className="tech-img" style={{height: "70%", width: "70%"}} src="https://raw.githubusercontent.com/Moja321/pf-images/main/bootstrap-logo.png" />
+            <div class="overlay">
+              <div class="content">
+                <div class="subcontent">
+                  <p>Bootstrap</p>
+                  <img className="stars-img" src="//raw.githubusercontent.com/Moja321/pf-images/main/2Star.png" />
+                  {/* 2 */}
+                </div>  
+              </div>
+            </div>
+          </div>         
         </div>
         {/* <img className="tech-img" src="https://drive.google.com/uc?id=1N6Yntccl8vIMP8cNb7Rq6jWj9DNrBYWM" />
         <img src="https://drive.google.com/uc?id=1iU0BSKlWWwSqWjQ_ME3qtRXE0tWr7Fpl" />

@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 //import img1 from "./assets/CardGame1.jpg";
 import "./App.css";
+// import "./wavy.css";
 import ProjectsBody from "./components/projectsfile/projectsbody";
 import Header from "./components/general/header";
 //import { SassComponent } from './components/sass/style';

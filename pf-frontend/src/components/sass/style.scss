@@ -22,6 +22,8 @@ h1 {
 //interpolation
 
 //@ means built-in functions
+
+//mixins are a set of predefined css commands that can be added into any other css code block
 @mixin text-style($name, $bold-or-normal, $size, $color) {
   #{$name} {
     font-size: #{$size}px;
@@ -57,7 +59,7 @@ h1 {
 $primary-color: green;
 
 #function-example {
-  background-color: invert($primary-color, 80%);
+  // background-color: invert($primary-color, 80%);
   h3 {
     color: black;
   }

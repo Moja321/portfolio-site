@@ -44,7 +44,7 @@ export const Contact = () => {
   };
 
   return (
-    <div className="contact" style={{ height: "120vh", marginTop: "30px" }}>
+    <div className="contact" style={{ height: "140vh", marginTop: "30px" }}>
       <div className="contact-intro" style={{paddingLeft: "5%", paddingRight: "5%" }}>
         <h4>Feel free to download my CV via the button below:</h4>
         <br />
@@ -64,8 +64,9 @@ export const Contact = () => {
         <br />
         <br />
       </div>
-      <div id="function-example">
+      <div id="function-example" className="contact-form">
         <section className="form-style">
+          {/* <h3>HELLO</h3> */}
           <br />
           <h4 style={{ color: "white" }}>Send me a message!</h4>
           <br />
