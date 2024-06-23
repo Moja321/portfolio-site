@@ -45,6 +45,14 @@ export const projects = [
     github: "https://github.com/Moja321/superduper-whack-a-mole",
   },
   {
+    name: "Awesome Web Comics",
+    img: "https://raw.githubusercontent.com/Moja321/pf-images/main/WebComics2.jpg",
+    description: "A website for reading and sharing comics online. Currently it's just the back end connected to a simple ejs frontend. Will add a proper React frontend to it soon",
+    tech: "HTML5/CSS/JavaScript, Node.js, Express.js, MongoDB, Mongoose",
+    url: "https://awesome-webcomics.adaptable.app/",
+    github: "https://github.com/Moja321/webcomic-site-be",
+  },
+  {
     name: "Coming Soon",
     img: "https://raw.githubusercontent.com/Moja321/pf-images/main/QuestionMark1.jpeg",
     description: "A website where users can ...",
