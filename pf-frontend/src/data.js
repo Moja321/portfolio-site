@@ -30,7 +30,7 @@ export const projects = [
     name: "Word search game",
     img: "https://raw.githubusercontent.com/Moja321/pf-images/main/WordGame-thumbnail.jpg",
     description:
-      "A fun word search game where players are tasked to find certain words inside a grid of randomly generated letters",
+      "A fun word search game where players are tasked to find certain words inside a grid of randomly generated letters. Note: try refreshing the page if game doesn't load",
     tech: "Unity game engine, C#",
     url: "https://i.simmer.io/@UnbanTeferi3/word-game",
     github: "https://github.com/Moja321/word-search-game",
@@ -39,7 +39,7 @@ export const projects = [
     name: "Super Duper Whack-a-mole",
     img: "https://raw.githubusercontent.com/Moja321/pf-images/main/WhackAMole-thumbnail.jpg",
     description:
-      "A whack-a-mole game made with Unity, players can submit their score to a top 10 global leaderboard",
+      "A whack-a-mole game made with Unity, players can submit their score to a top 10 global leaderboard. Note: try refreshing the page if game doesn't load",
     tech: "Unity game engine, C#, JavaScript, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://i.simmer.io/@UnbanTeferi3/superduperwhackamole",
     github: "https://github.com/Moja321/superduper-whack-a-mole",

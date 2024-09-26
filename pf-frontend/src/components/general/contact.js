@@ -49,7 +49,7 @@ export const Contact = () => {
         <h4>Feel free to download my CV via the button below:</h4>
         <br />
         <a
-        href="https://drive.google.com/file/d/1Bfv0-of44IYzfROtD0r0O8aDdqsZRXFl/view"
+        href="https://drive.google.com/file/d/1L-1ZBPGcW8DI4OXwh-YCt7UudID_lKqN/view"
         className="btn btn-success"
         target="_blank"
         rel="noreferrer"
