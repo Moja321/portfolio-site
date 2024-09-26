@@ -58,7 +58,7 @@ export const Contact = () => {
         </a>
         <br />
         <br />
-        <h4>You can contact me at umarroshidi@yahoo.com</h4>
+        <h4>You can contact me at umarmoja123@gmail.com</h4>
         <br />
         <h4>Or alternatively you can drop me a message via the form below:</h4>
         <br />
