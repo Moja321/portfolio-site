@@ -14,7 +14,7 @@ export const projects = [
     description:
       "An art gallery website where users can register to post and share personal artworks",
     tech: "HTML5/CSS/JavaScript, Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose",
-    url: "https://art-gallery-site.adaptable.app/",
+    url: "https://great-marsupial-umar-portfolio-4e6c898e.koyeb.app/",
     github: "https://github.com/Moja321/art_gallery_site",
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     description:
       "A website where users can share and rate each other's origami design ideas",
     tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node.js, Express.js, MongoDB, Mongoose",
-    url: "https://origame.vercel.app/",
+    url: "https://origa-me-fe.vercel.app/",
     github: "https://github.com/Moja321/project_3",
   },
   {
@@ -49,7 +49,7 @@ export const projects = [
     img: "https://raw.githubusercontent.com/Moja321/pf-images/main/WebComics2.jpg",
     description: "A website for reading and sharing comics online. Currently it's just the back end connected to a simple ejs frontend. Will add a proper React frontend to it soon",
     tech: "HTML5/CSS/JavaScript, Node.js, Express.js, MongoDB, Mongoose",
-    url: "https://awesome-webcomics.adaptable.app/",
+    url: "https://awesomewebcomics-3tc6teqs.b4a.run/",
     github: "https://github.com/Moja321/webcomic-site-be",
   },
   {
