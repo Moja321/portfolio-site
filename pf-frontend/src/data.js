@@ -32,7 +32,7 @@ export const projects = [
     description:
       "A fun word search game where players are tasked to find certain words inside a grid of randomly generated letters. Note: try refreshing the page if game doesn't load",
     tech: "Unity game engine, C#",
-    url: "https://i.simmer.io/@UnbanTeferi3/word-game",
+    url: "https://moja321.github.io/UnityWebGL-WordGame",
     github: "https://github.com/Moja321/word-search-game",
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     description:
       "A whack-a-mole game made with Unity, players can submit their score to a top 10 global leaderboard. Note: try refreshing the page if game doesn't load",
     tech: "Unity game engine, C#, JavaScript, Node.js, Express.js, MongoDB, Mongoose",
-    url: "https://i.simmer.io/@UnbanTeferi3/superduperwhackamole",
+    url: "https://moja321.github.io/UnityWebGL-WhackamoleGame",
     github: "https://github.com/Moja321/superduper-whack-a-mole",
   },
   {
