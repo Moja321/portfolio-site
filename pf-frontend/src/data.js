@@ -7,6 +7,7 @@ export const projects = [
     tech: "HTML5/CSS/JavaScript, React, Node.js",
     url: "https://react-movies-website-eight.vercel.app/",
     github: "https://github.com/Moja321/react-movies-website",
+    msg: "",
   },
   {
     name: "Art Gallery website",
@@ -16,6 +17,7 @@ export const projects = [
     tech: "HTML5/CSS/JavaScript, Bootstrap, EJS, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://great-marsupial-umar-portfolio-4e6c898e.koyeb.app/",
     github: "https://github.com/Moja321/art_gallery_site",
+    msg: "UNDER MAINTENANCE (Rehosting)",
   },
   {
     name: "Origami Sharing website",
@@ -25,6 +27,7 @@ export const projects = [
     tech: "HTML5/CSS/JavaScript, React, Bootstrap, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://origa-me-fe.vercel.app/",
     github: "https://github.com/Moja321/project_3",
+    msg: "UNDER MAINTENANCE (Rehosting backend)",
   },
   {
     name: "Word search game",
@@ -34,6 +37,7 @@ export const projects = [
     tech: "Unity game engine, C#",
     url: "https://moja321.github.io/UnityWebGL-WordGame",
     github: "https://github.com/Moja321/word-search-game",
+    msg: "",
   },
   {
     name: "Super Duper Whack-a-mole",
@@ -43,6 +47,7 @@ export const projects = [
     tech: "Unity game engine, C#, JavaScript, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://moja321.github.io/UnityWebGL-WhackamoleGame",
     github: "https://github.com/Moja321/superduper-whack-a-mole",
+    msg: "",
   },
   {
     name: "Awesome Web Comics",
@@ -51,6 +56,7 @@ export const projects = [
     tech: "HTML5/CSS/JavaScript, Node.js, Express.js, MongoDB, Mongoose",
     url: "https://awesomewebcomics-3tc6teqs.b4a.run/",
     github: "https://github.com/Moja321/webcomic-site-be",
+    msg: "UNDER MAINTENANCE (Rehosting)",
   },
   {
     name: "Coming Soon",
@@ -59,6 +65,7 @@ export const projects = [
     tech: "HTML5/CSS/JavaScript",
     url: "#",
     github: "#",
+    msg: "",
   },
   // {
   //   name: "Coming Soon",

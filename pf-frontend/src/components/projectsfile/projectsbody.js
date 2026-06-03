@@ -23,6 +23,7 @@ function ProjectsBody() {
               index={index}
               url={project.url}
               github={project.github}
+              msg={project.msg}
             />
           );
         })}

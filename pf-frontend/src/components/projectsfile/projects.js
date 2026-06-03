@@ -11,6 +11,13 @@ const Projects = (props) => {
         <br />
         <h6>Made with : {props.tech}</h6>
         <br />
+        {props.msg != "" ? (
+          <div className="card-msg">
+            <h6 style = {{color : 'firebrick'}}>{props.msg}</h6>
+            <br />
+          </div>
+          ) : null
+        }
         {/* <b>{props.index}</b> */}
         <a
           href={props.url}
